@@ -1,0 +1,8 @@
+---
+# vars file for create
+instance_type: t2.micro
+security_group: renanSecurityGroup
+image: ami-0c46f9f09e3a8c2b5
+keypair: renanbonette-ansible
+region: us-east-1
+count: 3
